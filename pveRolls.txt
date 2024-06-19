@@ -4,3 +4,6 @@ description: This is our curated PVE Rolls List. please add unique entries for e
 
 // Hammerhead ()
 dimwishlist:item=1896309757&perks=3425386926,95528736
+
+// Hammerhead Shiny
+dimwishlist:item=211732170&perks=3425386926,95528736
