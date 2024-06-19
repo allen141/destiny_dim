@@ -3,6 +3,7 @@ description: This is our curated PVE Rolls List. please add unique entries for e
 
 
 // Hammerhead
+//notes several good rolls, for different situations
 dimwishlist:item=1896309757&perks=3425386926,95528736
 
 // Hammerhead Shiny
