@@ -2,9 +2,45 @@ title: Arc Troopers PvE God Rolls
 description: This is our curated PVE Rolls List. 
 
 
+/////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////       Onslaught (Season 23)       ///////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////
+// I am going to copy the normal rolls for shiny weapons and keep them right next to each other
+// since they have different item hashes
+
+//------- Kinetic Slot -------
+// Blast Furnace
+// Blast Furnace Shiny
+// Hung Jury SR4 
+// Hung Jury SR4  Shiny
+// Midnight Coup
+// Midnight Coup Shiny
+// Succession
+// Succession Shiny
+// The Mountaintop
+// The Mountaintop Shiny
+
+//------- Energy Slot -------
+// Elsie's Rifle
+// Elsie's Rifle Shiny
+// Luna's Howl
+// Luna's Howl Shiny
+// The Recluse
+// The Recluse Shiny
+// Forbearance
+// Forbearance Shiny
+
+
+//------- Heavy Slot -------
+// Edge Transit
+// Edge Transit Shiny
+// Falling Guillotine 
+// Falling Guillotine Shiny
+
 // Hammerhead
-//notes several good rolls, for different situations
+//notes: several good rolls, for different situations
 dimwishlist:item=1896309757&perks=3425386926,95528736
 
 // Hammerhead Shiny
 dimwishlist:item=211732170&perks=3425386926,95528736
+
