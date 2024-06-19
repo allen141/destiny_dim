@@ -1,0 +1,7 @@
+title: Arc Troopers PvP God Rolls
+description: This is our curated PVP Rolls List. please add unique entries for every combo of a given weapon, that means it is ok to repeat entries for a weapon if they have slightly different or overlapping perks. I would suggest using the site https://wishlists.littlelight.club to generate new entries, as the UI is much cleaner than writing raw code.
+
+
+// Phyllotactic Spiral
+dimwishlist:item=3635821806&perks=839105230,1885400500,3619207468,460017080
+
