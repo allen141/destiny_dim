@@ -1,0 +1,6 @@
+title:
+description: This is our curated PVE Rolls List. please add unique entries for every combo of a given weapon, that means it is ok to repeat entries for a weapon if they have slightly different or overlapping perks. I would suggest using the site https://wishlists.littlelight.club to generate new entries, as the UI is much cleaner than writing raw code.
+
+
+// Hammerhead ()
+dimwishlist:item=1896309757&perks=3425386926,95528736
