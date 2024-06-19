@@ -1,3 +1,3 @@
 title: Arc Troopers Trash Rolls, Throw away immediately
-description: This is our curated PVP Rolls List. please add unique entries for every combo of a given weapon, that means it is ok to repeat entries for a weapon if they have slightly different or overlapping perks. I would suggest using the site https://wishlists.littlelight.club to generate new entries, as the UI is much cleaner than writing raw code.
+description: This is our curated Trash Rolls List. please use sparing, only for perks that actively damage the quality of a weapon
 
