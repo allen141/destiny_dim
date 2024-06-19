@@ -38,46 +38,109 @@ description: This is our curated PVE Rolls List.
 // Falling Guillotine Shiny
 
 // Hammerhead
-//notes: several good rolls, for different situations
+//notes: tags:pve several good rolls, for different situations
 dimwishlist:item=1896309757&perks=3425386926,95528736
 
 // Hammerhead Shiny
+//notes: tags:pve
 dimwishlist:item=211732170&perks=3425386926,95528736
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////  Echoes Craftable (Season 24)     ///////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////////
+// Ill Omen - not good (Maven)
+// Aberrant Action good perks, but bad frame (Maven)
+// Veiled Threat Not great for PVE, maybe gutshot for pvp(Maven)
 // Corrasion
 // Lost Signal
-// Aberrant Action
 // Chronophage
-// Faith-Keeper
-// Ill Omen
 // Sightline Survey
 // Speleologist
-// Timeworn Wayfarer
-// Veiled Threat
+
+// Faith-Keeper ()
+dimwishlist:item=4195186942&perks=3300816228,1439600632
+
+// Faith-Keeper ()
+dimwishlist:item=4195186942&perks=2869569095,1439600632
+
+// Timeworn Wayfarer (pve)
+//notes: single reload procs heal clip tags:pve
+dimwishlist:item=1058098236&perks=3017780555,4293542123
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////     Dawn Reprised (Season 24)     ///////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////////
-// Breachlight
-// Line In the Sand
-// Martyr's Retribution
-// Patron of Lost Causes
-// Perfect Paradox
+// Line In the Sand - Probably not that good, Cataclysm is better (Maven)
+// Patron of Lost Causes - Supposedly bad for PVE? (Maven)
+
+// Breachlight (pve)
+//notes: tags:pve
+dimwishlist:item=2328923181&perks=3142289711,923806249,831391274
+
+// Breachlight (pve)
+//notes: tags:pve
+dimwishlist:item=2328923181&perks=3142289711,3523296417,2109543898
+
+// Martyr's Retribution (pve)
+//notes: tags:pve
+dimwishlist:item=2584830733&perks=1478423395,3300816228,4293542123
+
+// Perfect Paradox (pve)
+//notes: tags:pve
+dimwishlist:item=1298672084&perks=691659142,2679249093
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////       Pale Heart (Season 24)      ///////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////////
 // Axial Lacuna
-// Bold Endings
 // The Call
-// Embraced Identity
-// False Idols
 // No Hsitation
-// Pro Memoria
-// Someday
+// Pro Memoria Not great, 450s are just better (Maven)
+
+// Bold Endings (pve)
+//notes: tags:pve
+dimwishlist:item=496728945&perks=124408337,2848615171
+
+// Embraced Identity (pve)
+//notes: tags:pve
+dimwishlist:item=2821677368&perks=1087426260,1523832109,1354429876
+
+// False Idols (pve)
+//notes: tags:pve
+dimwishlist:item=4207120603&perks=1749209109,3078487919
+
+// False Idols (pve)
+//notes: tags:pve
+dimwishlist:item=4207120603&perks=4293542123,2396489472
+
+// Someday (pve)
+//notes: tags:pve
+dimwishlist:item=3232203524&perks=3511092054,47981717Someday
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////          IDK  (Season 24)         ///////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////
+// Ded Gramarye IV (pve)
+//notes: tags:pve
+dimwishlist:item=499245245&perks=3978468247,2396489472
+
+
+// Ded Gramarye IV (pve)
+//notes: tags:pve
+dimwishlist:item=499245245&perks=684456054,2173046394
+
+// Maahes HC4 (pve)
+//notes: tags:pve
+dimwishlist:item=1246793994&perks=247725512,4104185692
+
+// Origin Story (pve)
+//notes: Fun, not necessarily good tags:pve
+dimwishlist:item=2826850739&perks=3978468247,95528736
+
+// Suspectum-4fr (pve)
+//notes: Niche for overloads tags:pve
+dimwishlist:item=3615421669&perks=968510818,2978966579

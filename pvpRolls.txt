@@ -3,5 +3,22 @@ description: This is our curated PVP Rolls List.
 
 
 // Phyllotactic Spiral
+//notes: tags:pvp
 dimwishlist:item=3635821806&perks=839105230,1885400500,3619207468,460017080
 
+// Patron of Lost Causes (pvp)
+//notes: tags:pvp
+dimwishlist:item=2249996761&perks=247725512,555281244
+
+
+// Breachlight (pvp)
+//notes: tags:pvp
+dimwishlist:item=2328923181&perks=923806249,3324494224
+
+// Origin Story (pvp)
+//notes: tags:pvp
+dimwishlist:item=2826850739&perks=3619207468,1365187766
+
+// Someday (pvp)
+//notes: tags:pvp
+dimwishlist:item=3232203524&perks=4071163871,47981717
