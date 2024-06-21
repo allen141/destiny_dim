@@ -1,3 +1,5 @@
 title: Arc Troopers Trash Rolls, Throw away immediately
 description: This is our curated Trash Rolls List. please use sparing, only for perks that actively damage the quality of a weapon
 
+// Adverse Possession IX
+dimwishlist:item=1890332078

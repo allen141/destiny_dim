@@ -144,3 +144,17 @@ dimwishlist:item=2826850739&perks=3978468247,95528736
 // Suspectum-4fr (pve)
 //notes: Niche for overloads tags:pve
 dimwishlist:item=3615421669&perks=968510818,2978966579
+
+// Yarovit MG4 (pve)
+//notes tags:pve
+dimwishlist:item=3959549446&perks=3418782618,124408337
+
+
+// Crux Termination IV
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+
+//PSI Hermetic V
+dimwishlist:item=358788212&perks=3828510309,124408337
+dimwishlist:item=358788212&perks=3511092054,124408337
+dimwishlist:item=358788212&perks=1168162263,124408337
+
