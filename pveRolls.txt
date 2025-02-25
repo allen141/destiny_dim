@@ -242,13 +242,13 @@ dimwishlist:item=3229982889&perks=692399809,2298656195
 dimwishlist:item=3229982889&perks=923806249,960997401
 
 // Psychopomp
-//notes tags:pve
-dimwishlist:item=4028298892&perks=2010801679,3218042543,120721526
+//notes tags:pve want shiny
+dimwishlist:item=4028298892&perks=2010801679,3218042543
 
 // Eyes Unveiled
-//notes tags:pve
-dimwishlist:item=727781522&perks=3643424744,1427256713,120721526
-dimwishlist:item=727781522&perks=2010801679,1427256713,120721526
+//notes tags:pve want shiny
+dimwishlist:item=727781522&perks=3643424744,1427256713
+dimwishlist:item=727781522&perks=2010801679,1427256713
 
 // Watchful Eye
 //notes tags:pve
