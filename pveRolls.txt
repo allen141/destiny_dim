@@ -243,7 +243,7 @@ dimwishlist:item=3229982889&perks=923806249,960997401
 
 // Psychopomp
 //notes tags:pve
-dimwishlist:item=3840794631&perks=2010801679,3218042543,120721526
+dimwishlist:item=4028298892&perks=2010801679,3218042543,120721526
 
 // Eyes Unveiled
 //notes tags:pve
